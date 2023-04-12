@@ -1,0 +1,8 @@
+\babel@toc {brazil}{}
+\babel@toc {brazil}{}
+\contentsline {section}{Sum\'ario}{2}{}%
+\contentsline {section}{\numberline {1}Introdução}{4}{}%
+\contentsline {section}{\numberline {2}Conceitos Preliminares (ou Revisão de Literatura)}{4}{}%
+\contentsline {section}{\numberline {3}Metodologia}{4}{}%
+\contentsline {section}{\numberline {4}Resultados e Discussões}{5}{}%
+\contentsline {section}{\numberline {5}Considerações Finais}{6}{}%
